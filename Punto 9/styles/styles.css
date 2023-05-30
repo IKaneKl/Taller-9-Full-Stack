@@ -1,0 +1,26 @@
+table {
+    border:1px dotted;
+    border-collapse: collapse;
+    font-size: 29px;
+    background: yellow;  
+    margin: auto;
+}
+
+th {
+    color: red;   
+    font-size: 20px;
+}
+
+th::first-letter {
+    font-size: 30px;
+}
+
+td {
+    border: 1px dotted;
+    width: 725px;
+}
+
+.dashed {
+    border-bottom: red 1px dashed;
+}
+

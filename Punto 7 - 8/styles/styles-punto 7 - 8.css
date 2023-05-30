@@ -1,0 +1,27 @@
+body {
+    font-size: 20px;
+}
+
+.menu {
+    padding: 0;
+    background: #E6B9F1;
+    width: 90%;
+    max-width: 560px;
+    margin: auto;
+}
+
+.menu li a{
+    text-decoration: none;
+    color:white;
+    padding: 20px;
+    display: block;
+}
+
+.menu li {
+    display: inline-block;
+    text-align: center;
+}
+
+.menu li a:hover {
+    background: blue;
+}

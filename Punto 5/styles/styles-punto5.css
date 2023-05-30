@@ -1,0 +1,25 @@
+body {
+    font-size: 40px;
+    line-height: 80px;
+    margin: 20px 150px;
+}
+
+.verde{
+    color: rgb(17, 202, 17);
+}
+
+.rojo__r {
+    color: red;
+}
+
+.decoracion {
+    text-decoration: underline overline;
+}
+
+.grande {
+    font-size: 70px;
+}
+
+.azul {
+    color: blue;
+}
